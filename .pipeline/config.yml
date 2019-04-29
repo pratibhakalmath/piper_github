@@ -7,4 +7,4 @@ steps:
     neo:
       credentialsId: 'NEO_DEPLOY'
       host: 'hana.ondemand.com'
-      account: 'p1941901743trial'        
+      account: 'p1942404349trial'        
