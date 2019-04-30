@@ -6,5 +6,5 @@ steps:
     NEO_HOME: '/opt/sap/neo-sdk/'
     neo:
       credentialsId: 'NEO_DEPLOY'
-      host: 'account.hanatrial.ondemand.com'
+      host: 'hana.ondemand.com'
       account: 'p1942404349trial'        
