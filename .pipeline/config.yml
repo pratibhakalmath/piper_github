@@ -3,8 +3,8 @@ steps:
     buildTarget: 'NEO'
     MTA_HOME: '/opt/sap/mta/lib/mta.jar'
   neoDeploy:
-    NEO_HOME: '/home/jenkins/NEO_HOME'
+    NEO_HOME: '/opt/sap/neo-sdk/'
     neo:
       credentialsId: 'NEO_DEPLOY'
-      host: 'hana.ondemand.com'
+      host: 'account.hanatrial.ondemand.com'
       account: 'p1942404349trial'        
