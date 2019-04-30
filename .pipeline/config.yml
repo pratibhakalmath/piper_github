@@ -5,6 +5,6 @@ steps:
   neoDeploy:
     NEO_HOME: '/opt/sap/neo-sdk/'
     neo:
-      credentialsId: 'NEO_DEPLOY'
-      host: 'hana.ondemand.com'
-      account: 'p1942404349trial'        
+      credentialsId: 'CI_CREDENTIALS_ID'
+      host: 'eu1.hana.ondemand.com'
+      account: 'a533b9d89'        
