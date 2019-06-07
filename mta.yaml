@@ -1,6 +1,6 @@
 ID: MyMTAApp
 _schema-version: '2.1'
-version: 0.0.2
+version: 0.0.1
 
 modules:
  - name: ui
@@ -9,6 +9,6 @@ modules:
    parameters:
       disk-quota: 256M
       memory: 256M
-      version: 0.0.2
+      version: 0.0.3
    build-parameters:
       builder: grunt
